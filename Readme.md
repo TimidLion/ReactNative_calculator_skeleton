@@ -4,8 +4,8 @@ I assume you already have build **every circumstances** for ReactNative
 
 
 # Install
-> 1. react-native init *Project Name*
-> 2. cd *Project Name*
+> 1. react-native init *ProjectName*
+> 2. cd *ProjectName*
 > 3. overwrite __index.android.js__ file (It means just copy and paste and press yes to overwrite)
 > 4. start AVD or Geny motion or anything for simulation(debugging)
 > 5. react-native run-android
